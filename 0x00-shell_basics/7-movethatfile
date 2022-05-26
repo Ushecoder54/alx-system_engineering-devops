@@ -1,4 +1,0 @@
-#!/bin/bash
-mv/tmp/betty/tmp/my_first_directory >> 7-movethatfile
-7-movethatfile
-echo mv/tmp/betty/tmp/my_first_directory
